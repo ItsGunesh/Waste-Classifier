@@ -1,6 +1,6 @@
-# EcoRewards 🌍
+# Multi-Waste Classification 🌍
 
-Welcome to EcoRewards, a web application designed to promote sustainable waste management by helping users classify waste, locate recycling centers, and earn rewards for their eco-friendly actions. Let's make the planet greener together! 🌱
+Welcome to Multi-Waste Classification, a web application designed to promote sustainable waste management by helping users classify waste, locate recycling centers, and earn rewards for their eco-friendly actions. Let's make the planet greener together! 🌱
 
 <br><br>
 
