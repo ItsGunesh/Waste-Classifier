@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/28e9c45b-cf1f-4cd5-8be3-9249a5df919e
 
 Clone the repository:
 
-git clone https://github.com/Rishi1045/ECOREWARDS.git
+git clone https://github.com/Rishi1045/Waste-Classifier.git
 
 <br>
 
